@@ -1,2 +1,2 @@
-# web-dev-homework
-Repository for my into Web Dev Homework
+# Alexander Thurner's web-dev-homework Repo
+
