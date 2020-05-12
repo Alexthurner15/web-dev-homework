@@ -1,5 +1,3 @@
 # Alexander Thurner's web-dev-homework Repo
 
-This is for all my web-dev homework.
-
-I am a new web designer at The University of Montana.
+I am a University Montana Student pursuing a Bachelor of Arts degree in Economics, and a minor in Psychology. 
