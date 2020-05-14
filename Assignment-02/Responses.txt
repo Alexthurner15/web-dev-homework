@@ -4,6 +4,6 @@
 
 8.  A cookie are small files which are stored on your computer that hold specific information (data) to a client or website. It is an ID (Identification) card that uses a number to remember who you are on a website.
 
-9. 1. Protocol (HTTP) - Hyper text transfer protocol
+9. 1. Protocol 
    2. Domain
    3. Path & File
