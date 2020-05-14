@@ -5,13 +5,13 @@ I took this class (Introduction to Web Design) because I was interested on how t
 
 A list of things in markdown:
 
-- item 1: I have learned how the internet works.
-- item 2: I have learned how the web is different from the internet.
-- items 3: I have learned how data travels through the internet.
+- I have learned how the internet works.
+- I have learned how the web is different from the internet.
+- I have learned how data travels through the internet.
 
-1. item 1: I hope to learn more about wordpress and how to use the tools for it.
-2. item 2: I hope to learn how to use coding in creating the website.
-3. item 3: I hope to learn more about HTML & other programming languages.
+1. I hope to learn more about wordpress and how to use the tools for it.
+2. I hope to learn how to use coding in creating the website.
+3. I hope to learn more about HTML & other programming languages.
 
 [Google Search](https://www.google.com/)
 
