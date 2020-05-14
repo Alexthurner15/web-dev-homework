@@ -1,9 +1,9 @@
-Alexander Thurner
+6. One way data travels on the internet is through packets of information that travel through a router (IP Address). The router sends the packets of information in a path towards the next destination where the data is being sent. There is no fixed paths for the data to travel so it could take alternative or different routes to get to the next destination. 
 
-1. Blah Blah...
+7. The relationship between IP Address and DNS (Domain Name System) is very similar. For example, the IP Address is the number on the address where the information is being sent. The DNS uses correponding names such as www.yahoo.com (domain) with the address (number on IP Address) to send information from the server to the domain. 
 
-2.
+8.  A cookie are small files which are stored on your computer that hold specific information (data) to a client or website. It is an ID (Identification) card that uses a number to remember who you are on a website.
 
-3.
-
-4.
+9. 1. Protocol (HTTP) - Hyper text transfer protocol
+   2. Domain
+   3. Path & File
