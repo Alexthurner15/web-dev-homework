@@ -4,4 +4,4 @@
 
 3. In this assignment, we had to create a page for a recipe of our choice. First, we used the 4 meta  elements such as character, author, description, & viewport for the page structure. Inside the head element we created 4 headings for the recipe name, "ingredients" section, "directions" section, & "contact me" section.
 
-Inside the "ingredients" heading, we included a list of ingredients as a unordered list. Under the directions heading, we included steps for the completed dish as a ordered list. Then I added an image of the completed dish, and included my email, university's address, & a link to the completed dish external site (absolute URL).
+  Inside the "ingredients" heading, we included a list of ingredients as a unordered list. Under the directions heading, we included steps for the completed dish as a ordered list. Then I added an image of the completed dish, and included my email, university's address, & a link to the completed dish external site (absolute URL).
