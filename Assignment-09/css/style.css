@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+}
+
+.square {
+  width: 50%;
+  height: 200px;
+}
+
+p {
+  font-family: Arial;
+  color: gold;
+}
+
+#avocado {
+  background-color: #568203;
+}
+
+#teak {
+  background-color: #c29467;
+}
+
+#gold {
+  background-color: #F3BC65;
+}
+
+#sienna {
+  background-color: #E87451;
+}
