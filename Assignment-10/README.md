@@ -1,3 +1,5 @@
-What is the difference between a system font, web font, and web-safe font?
-What is the importance of having fallback fonts or a font stack?
-Free Response: Summarize your work cycle for this assignment.
+A system font is already installed on your computer in applications such as Microsoft Word, etc. A webfont is a specially tuned font for use on websites using the CSS. A web safe font is a font that is safe to be installed on majority of computers. 
+
+It is important of having fallback fonts or/and a font stack because if a client doesnt have a font name, then the browser will try the next listed font in the chain. If also could affect the pages layout if the fonts are both unrelated but it could improve it if the two fonts are similar. Also, it you don't have a matching font for the name it will go to the next listed font in the chain until it finds a matching font. 
+
+For this assignment, I first started out by selecting a favorite writing & I picked "Jack and the Beanstalk" by Flora Annie Steel. I included the date it was written or published, and a link for further information. Then I used the 4 main document elements & 4 meta elements. After that I added a link element for my style sheet inside the head element. After that, I structed the page using div (text).I used two different types of fonts for my page and they are Merriweather & Meddon (fonts). I included a fallback for each font & used the family property to apply these fonts to elements. Next, I set the font-size, font-weight and/or font-style of an element & adjusted spacing and/or alignment of an element. After that I styled my link element with a hover pseduo-class. Lastly, I attached pseudo-element to an element using the first letter of each paragraph with Meddon font. 
